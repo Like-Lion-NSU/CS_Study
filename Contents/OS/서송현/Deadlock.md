@@ -102,7 +102,7 @@
 2. 회복(Recovery)
     - 교착 상태 일으킨 프로세스를 종료하거나, 할당된 자원을 해결시켜 회복시키는 바법
 
-   #####자원 할당 그래프 알고리즘
+   ##### 자원 할당 그래프 알고리즘
 
       <img src="./pic/resourceAllocationGraph.png" width="500">
 
